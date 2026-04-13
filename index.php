@@ -32,7 +32,7 @@
   </script>
 
   <link rel="stylesheet" href="./assets/plugins/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./assets/css/orbit-1.css">
+  <link rel="stylesheet" href="./assets/css/orbit-current.css">
   <link rel="shortcut icon" href="./favicon.png">
 </head>
 
