@@ -31,9 +31,9 @@
     integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous">
   </script>
 
-  <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/css/orbit-1.css">
-  <link rel="shortcut icon" href="favicon.png">
+  <link rel="stylesheet" href="./assets/plugins/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./assets/css/orbit-1.css">
+  <link rel="shortcut icon" href="./favicon.png">
 </head>
 
 <body>
