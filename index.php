@@ -167,6 +167,31 @@
         </ul>
       </section>
 
+      <!-- ARTICLES -->
+      <section>
+        <h2>Technical Articles</h2>
+        <ul>
+          <li>
+            <strong>Hospedagem de E-commerce: A Base Invisível para Performance e Escalabilidade</strong><br>
+            Wrote about scalable infrastructure, cloud hosting, performance optimization and high-availability systems
+            for e-commerce.<br>
+            <a href="https://www.ecommercebrasil.com.br/artigos/hospedagem-de-e-commerce-a-base-invisivel-para-a-performance-e-escalabilidade-das-lojas-virtuais"
+              target="_blank">
+              https://www.ecommercebrasil.com.br/artigos/hospedagem-de-e-commerce-a-base-invisivel-para-a-performance-e-escalabilidade-das-lojas-virtuais
+            </a>
+          </li>
+
+          <li>
+            <strong>Segurança de Dados do Usuário: Como Evitar Vazamentos</strong><br>
+            Covered data protection, cybersecurity practices, secure APIs and strategies to prevent data breaches.<br>
+            <a href="https://www.ecommercebrasil.com.br/artigos/seguranca-de-dados-do-usuario-como-evitar-vazamentos"
+              target="_blank">
+              https://www.ecommercebrasil.com.br/artigos/seguranca-de-dados-do-usuario-como-evitar-vazamentos
+            </a>
+          </li>
+        </ul>
+      </section>
+
       <!-- EDUCATION -->
       <section>
         <h2>Education</h2>
